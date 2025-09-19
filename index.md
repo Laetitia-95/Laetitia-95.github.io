@@ -26,7 +26,7 @@ I am currently pursuing a Master's in Supply Chain Analytics at California State
 * Played a key role in fulfilling orders during the holidays, which tripled the company's sales compared to the same period last year. 
 * Coordinated weekly meetings with core project team members, and communicated progress and upcoming actions, ensuring the project stayed on schedule.
 
-**Au Pair** with *Cultural Care Au Pair* 
+**Au Pair** with *Cultural Care Au Pair*
 * Collaborated with kids, parents, and teachers to resolve misunderstandings and/or behavioral issues. 
 * Managed three classes in a community college, where I obtained a 4.0 GPA, and the children's schedule at the same time. 
 * Provided educational development by helping with homework in math and English. 
@@ -37,11 +37,11 @@ I am currently pursuing a Master's in Supply Chain Analytics at California State
 * Demonstrated exceptional organizational skills and attention to detail by efficiently managing phone calls, emails, complex patient schedules, and updates in computer systems with complete accuracy in a fast-paced healthcare environment. 
 
 # Education
-Associate of Arts: Behavioral and Social Sciences 					  July 2024
-Associate of Arts: Business/Managerial Economics       					      
+Associate of Arts: Behavioral and Social Sciences - July 2024
+Associate of Arts: Business/Managerial Economics - July 2024    					      
 West Valley College, Saratoga, CA 
 
-Bachelor of Science: Occupational Therapy 							     July 2020
+Bachelor of Science: Occupational Therapy - July 2020 
 IFPVPS, La Garde, FR 
 
 
