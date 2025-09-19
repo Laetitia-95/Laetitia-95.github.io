@@ -2,122 +2,52 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Hello, my name is Laetitia Vermeersch.** 
+I am currently pursuing a Master's in Supply Chain Analytics at California State University San Marcos. Through this program, I am developing knowledge and skills in data analysis, visualization, and problem-solving to prepare my career as a **project manager**. This e-portfolio displays my resume. 
 
-[Link to another page](./another-page.html).
+*This e-portfolio is a work-in-progress and will evolve as I gain experience and develop skills* 
 
-There should be whitespace between paragraphs.
+# Skills
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+* Proficiency Microsoft Office Suite
+* Click-Up and Miro (project management websites)
+* GitHub and VS Code
+* Bilingual (French, English) 
+* Written and verbal skills
+* Problem-solving
+* Strong organization
 
-# Header 1
+# Experiences 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Project Coordinator** at *Angel's Salumi & Truffles* 
+* Sourced about twenty vendors and gathered information to assist the CEO in making optimal decisions about pricing, delivery times, and product quality.
+* Created efficient spreadsheets with precise inventory data and order placement information, helping the company maintain stock levels and prevent shortages.
+* Contributed to optimizing the inventory space to centralize products and enhance efficiency during order fulfillment.
+* Played a key role in fulfilling orders during the holidays, which tripled the company's sales compared to the same period last year. 
+* Coordinated weekly meetings with core project team members, and communicated progress and upcoming actions, ensuring the project stayed on schedule.
 
-## Header 2
+**Au Pair** with *Cultural Care Au Pair* 
+* Collaborated with kids, parents, and teachers to resolve misunderstandings and/or behavioral issues. 
+* Managed three classes in a community college, where I obtained a 4.0 GPA, and the children's schedule at the same time. 
+* Provided educational development by helping with homework in math and English. 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Occupational Therapy Intern** 
+* Assessed, planned, monitored, and closed rehabilitation objectives for two to five patients, enabling them to be independent and self-sufficient in their own homes.
+* Collaborated and communicated effectively and confidently with patients, families, healthcare professionals, and technical aid dealers.
+* Demonstrated exceptional organizational skills and attention to detail by efficiently managing phone calls, emails, complex patient schedules, and updates in computer systems with complete accuracy in a fast-paced healthcare environment. 
 
-### Header 3
+# Education
+Associate of Arts: Behavioral and Social Sciences 					  July 2024
+Associate of Arts: Business/Managerial Economics       					      
+West Valley College, Saratoga, CA 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Bachelor of Science: Occupational Therapy 							     July 2020
+IFPVPS, La Garde, FR 
 
 
-### Definition lists can be used with HTML syntax.
+You can find my resume [here](Laetitia%20Vermeersch%20-%20Resume.pdf)
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Upcoming Milestones
+1. Graduation in Supply Chain Analytics Master - August 2026
+2. Obtain the Certified Associate In Project Management (CAPM) certification - WIP 
