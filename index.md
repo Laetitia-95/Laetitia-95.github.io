@@ -3,6 +3,7 @@ layout: default
 ---
 
 **Hello, my name is Laetitia Vermeersch.** 
+
 I am currently pursuing a Master's in Supply Chain Analytics at California State University San Marcos. Through this program, I am developing knowledge and skills in data analysis, visualization, and problem-solving to prepare my career as a **project manager**. This e-portfolio displays my resume. 
 
 *This e-portfolio is a work-in-progress and will evolve as I gain experience and develop skills* 
@@ -47,6 +48,11 @@ IFPVPS, La Garde, FR
 
 You can find my resume [here](Laetitia%20Vermeersch%20-%20Resume.pdf)
 
+# Projects 
+
+As part of my Supply Chain Analytics Master, I created this e-portfolio. 
+
+The steps I followed are available here: [Detailed Steps](e-portfolio_creation_guide/index.md).
 
 ## Upcoming Milestones
 1. Graduation in Supply Chain Analytics Master - August 2026
