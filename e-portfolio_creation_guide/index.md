@@ -41,7 +41,7 @@ You can also find a more visual explanation of creating GitHub Pages [here](http
 
 ## Step 3 - Upload The Theme to Your Repository
 In my case, I uploaded a pre-made theme called *minimal*. To do so, I *forked* (copied) an existing repository and added it to my own. 
-1. Click the following link: https://github.com/pages-themes/minimal
+1. Click the following link: [https://github.com/pages-themes/minimal](https://github.com/pages-themes/minimal)
 
 2. Click **Code** (green button), then select **Download ZIP**
 
@@ -120,5 +120,5 @@ After moving all the necessary folders and files, your root repository folder sh
 Your final e-portfolio should look like [this](../assets/img/final_eportfolio.png). It shows all the changes made in the previous folders and files, from the title and escription to the headshot and main content. 
 
 ### References
-- GitHub. "Quickstart for GitHub Pages". Retrieved October 16th, 2025. https://docs.github.com/en/pages/quickstart
-- Visual Studio Code. "Working with GitHub in VS Code". Retrieved October 16th, 2025. https://code.visualstudio.com/docs/sourcecontrol/github
+- GitHub. "Quickstart for GitHub Pages". Retrieved October 16th, 2025. [https://docs.github.com/en/pages/quickstart](https://docs.github.com/en/pages/quickstart)
+- Visual Studio Code. "Working with GitHub in VS Code". Retrieved October 16th, 2025. [https://code.visualstudio.com/docs/sourcecontrol/github](https://code.visualstudio.com/docs/sourcecontrol/github)
