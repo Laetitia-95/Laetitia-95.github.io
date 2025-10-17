@@ -2,13 +2,13 @@
 layout: default
 ---
 
-**Hello, my name is Laetitia Vermeersch.** 
+## Hello, my name is Laetitia Vermeersch.
 
 I am currently pursuing a Master's in Supply Chain Analytics at California State University San Marcos. Through this program, I am developing knowledge and skills in data analysis, visualization, and problem-solving to prepare my career as a **project manager**. This e-portfolio displays my resume. 
 
 *This e-portfolio is a work-in-progress and will evolve as I gain experience and develop skills* 
 
-# Skills
+## Skills
 
 * Proficiency Microsoft Office Suite
 * Click-Up and Miro (project management websites)
@@ -18,7 +18,7 @@ I am currently pursuing a Master's in Supply Chain Analytics at California State
 * Problem-solving
 * Strong organization
 
-# Experiences 
+## Experiences 
 
 **Project Coordinator** at *Angel's Salumi & Truffles* 
 * Sourced about twenty vendors and gathered information to assist the CEO in making optimal decisions about pricing, delivery times, and product quality.
@@ -37,7 +37,7 @@ I am currently pursuing a Master's in Supply Chain Analytics at California State
 * Collaborated and communicated effectively and confidently with patients, families, healthcare professionals, and technical aid dealers.
 * Demonstrated exceptional organizational skills and attention to detail by efficiently managing phone calls, emails, complex patient schedules, and updates in computer systems with complete accuracy in a fast-paced healthcare environment. 
 
-# Education
+## Education
 Associate of Arts: Behavioral and Social Sciences - July 2024
 Associate of Arts: Business/Managerial Economics - July 2024    					      
 West Valley College, Saratoga, CA 
@@ -48,12 +48,12 @@ IFPVPS, La Garde, FR
 
 You can find my resume [here](Laetitia%20Vermeersch%20-%20Resume.pdf)
 
-# Projects 
+## Projects 
 
 As part of my Supply Chain Analytics Master, I created this e-portfolio. 
 
 The steps I followed are available here: [Detailed Steps](e-portfolio_creation_guide/index.md).
 
-## Upcoming Milestones
+### Upcoming Milestones
 1. Graduation in Supply Chain Analytics Master - August 2026
 2. Obtain the Certified Associate In Project Management (CAPM) certification - WIP 
