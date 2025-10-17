@@ -1,15 +1,15 @@
 # Hello and Welcome to My E-Portfolio! 
 
-I developed this e-portfolio as part of the *Tools and Technologies for Business Analytics* course in the **Master's in Supply Chain Analytics** program at California State University San Marcos (CSUSM). 
+I developed this e-portfolio as part of the *Tools and Technologies for Business Analytics* course in the **Master's in Supply Chain Analytics** program. 
 
 ## Purpose
-- Showcase my professional experiences
+- Showcase my hard and soft skills
 
-- Demonstrate my ability to manage and publish technical projects
+- Explain my projects 
 
-- Showcase my skills in analytics, data visualization, and problem-solving
+- Show my skills in analytics, data visualization, and problem-solving
 
-- Provide an online professional presence accessible to instructors, peers, and employers 
+- Provide an online access to my professional accomplishments to instructors, peers, and employers 
 
 ## Structure
 - **Home Page**: presents my background, experiences, education, academics projects, and goals
