@@ -54,6 +54,8 @@ As part of my Supply Chain Analytics Master, I created this e-portfolio.
 
 The steps I followed are available here: [Detailed Steps](e-portfolio_creation_guide/index.md).
 
+Find here a details of the assignments for the Tools and Techs for Business Analytics: [Assignments](om_620_assignments/om620_assignment.md).
+
 ### Upcoming Milestones
 1. Graduation in Supply Chain Analytics Master - August 2026
 2. Obtain the Certified Associate In Project Management (CAPM) certification - WIP 
