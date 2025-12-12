@@ -11,11 +11,17 @@ I am currently pursuing a Master's in Supply Chain Analytics at California State
 ## Skills
 
 * Proficiency Microsoft Office Suite
+
 * Click-Up and Miro (project management websites)
+
 * GitHub and VS Code
-* Bilingual (French, English) 
+
+* Bilingual (French, English)
+
 * Written and verbal skills
+
 * Problem-solving
+
 * Strong organization
 
 ## Experiences 
@@ -46,16 +52,17 @@ Bachelor of Science: Occupational Therapy - July 2020
 IFPVPS, La Garde, FR 
 
 
-You can find my resume [here](Laetitia%20Vermeersch%20-%20Resume.pdf)
+My resume is available [here](Laetitia%20Vermeersch%20-%20Resume.pdf)
 
 ## Projects 
 
-As part of my Supply Chain Analytics Master, I created this e-portfolio. 
+**Creation of an e-portfolio** - The steps I followed are available here: [Detailed Steps](e-portfolio_creation_guide/index.md).
 
-The steps I followed are available here: [Detailed Steps](e-portfolio_creation_guide/index.md).
+**Safety stock calculation in Python** - The overview of the two assignments including a summary of the data cleaning and safety stock computation steps, as well as the findings, can be find here: [Assignments 620](om_620_assignments/om620_assignment.md).
 
-Find here a details of the assignments for the Tools and Techs for Business Analytics: [Assignments](om_620_assignments/om620_assignment.md).
+**Transportation Costs** - 
 
 ### Upcoming Milestones
 1. Graduation in Supply Chain Analytics Master - August 2026
+
 2. Obtain the Certified Associate In Project Management (CAPM) certification - WIP 

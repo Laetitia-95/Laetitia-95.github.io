@@ -121,4 +121,5 @@ Your final e-portfolio should look like [this](../assets/img/final_eportfolio.pn
 
 ### References
 - GitHub. "Quickstart for GitHub Pages". Retrieved October 16th, 2025. [https://docs.github.com/en/pages/quickstart](https://docs.github.com/en/pages/quickstart)
+
 - Visual Studio Code. "Working with GitHub in VS Code". Retrieved October 16th, 2025. [https://code.visualstudio.com/docs/sourcecontrol/github](https://code.visualstudio.com/docs/sourcecontrol/github)

@@ -14,7 +14,11 @@ I developed this e-portfolio as part of the *Tools and Technologies for Business
 ## Structure
 - **Home Page**: presents my background, experiences, education, academics projects, and goals
 
-- **E-Portfolio creation guide**: [Detailed Steps](e-portfolio_creation_guide/index.md) describing how I developed the website using VSCode and GitHub
+- **E-Portfolio creation guide**: [Detailed Steps](e-portfolio_creation_guide/index.md) describes how I developed the website using VSCode and GitHub
+
+- **Tool and Technologies for Business Analytics Assignments**: [Assignments 620](om_620_assignments/om620_assignment.md) summarizes the steps to compute the safety stock for three customer service levels, and showcases the findings. 
+
+- **Advanced Visual Analytics Assignments**: [Assignments 621](om_621_assignments/om621_assignment.md) 
 
 ## Technologies Used
 - **GitHub Pages** for hosting
