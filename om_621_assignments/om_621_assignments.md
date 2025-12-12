@@ -12,7 +12,7 @@ The repository includes:
 
 The project aims to provide solutions that support a company's strategic decision-making related to allocating costs for different modes of transportation. 
 
-Find a video presentation: [here](om_621_assignments/project_presentation.mp4)
+Find the video presentation: [here](om_621_assignments/project_presentation.mp4)
 
 ## Assignments Overview
 
