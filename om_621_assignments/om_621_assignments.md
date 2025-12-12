@@ -24,8 +24,7 @@ Find the video presentation: [here](project_presentation.mp4)
 
 * **Understand the problem and what solution is best suited**: the company experiences delay between invoice dates and shipment dates making it complicated for the accounting department to estimate and allocate transportation budgets across the departments. Each departments use different carriers and transportation modes adding complexity to the situation. Historical data shows that each carrier is most cost-efficient with a specific transportation mode. The implementation of a forecasting model and transportation cost estimation is best suited to accordingly allocate cost by transportation mode. 
 
-The following picture summarizes the situation in a storyboard format: 
-![alt text](image.png) 
+The following picture summarizes the situation in a storyboard format: [alt text](image.png) 
 
 ### Assignment 2 - Delay Analysis & Visualization using Python
 
