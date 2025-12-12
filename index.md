@@ -60,7 +60,7 @@ My resume is available [here](Laetitia%20Vermeersch%20-%20Resume.pdf)
 
 **Safety stock calculation in Python** - The overview of the two assignments including a summary of the data cleaning and safety stock computation steps, as well as the findings, can be find here: [Assignments 620](om_620_assignments/om620_assignment.md).
 
-**Transportation Costs Estimation and Forecasting** - The overview of the assignments including presentation of the situatio, python, and Power BI can be find here: [Assignments 621](om_621_assignments/om_621_assignments.md).
+**Transportation Costs Estimation and Forecasting** - The overview of the assignments including presentation of the situatio, python, and Power BI can be find here: [Assignments 621](/om_621_assignments/om_621_assignments.md).
 
 ### Upcoming Milestones
 1. Graduation in Supply Chain Analytics Master - August 2026
