@@ -8,17 +8,6 @@
 
 .sidebar {
   background-color: #eef4f8;
-  position: relative;
-  &::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    right: 100%;
-    width: 100vw;
-    background-color: #eef4f8;
-    z-index: -1;
-  }
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 

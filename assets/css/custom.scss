@@ -1,0 +1,10 @@
+/* Change the page-wide background to your light blue color */
+body {
+    background-color: #eef4f8 !important; /* Replace with your exact light blue hex code */
+}
+
+/* Ensure the main content section remains white so it stands out */
+.docs-content, .article-container, main {
+    background-color: #ffffff !important; 
+    padding: 20px; /* Optional: Adds breathing room inside your white content area */
+} 
