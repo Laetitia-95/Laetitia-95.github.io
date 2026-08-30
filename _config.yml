@@ -23,7 +23,7 @@ repository               : "Laetitia-95/Laetitia-95.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Laetitia Vermeersch"
   pronouns         : # example: "she/her"  
   bio              : "MS Supply Chain Analytics | Data Analytics | Operations"
