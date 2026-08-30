@@ -26,10 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Laetitia Vermeersch"
   pronouns         : # example: "she/her"  
-  bio              : "San Diego County, California, USA"
+  bio              : "MS Supply Chain Analytics | Data Analytics | Operations"
   employer         : 
   uri              : # URL
   email            : "laetitiavermeersch95@gmail.com" 
+  location         : "San Diego County, California, USA"
 
   # Academic websites
   academia         : # URL
