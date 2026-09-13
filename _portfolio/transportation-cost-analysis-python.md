@@ -46,8 +46,10 @@ I created a `delay` feature based on the difference between the shipping date an
 Once this delay feature created, I analyzed different relationships possible: 
 - Delay distribution across regions
 ![Delay Across Regions]({{site.baseurl}}/images/delay-regions.png)
+
 - Delay distribution across manufacturing sites
 ![Delay Across Sites]({{site.baseurl}}/images/delay-sites.png)
+
 - Delay distribution across transportation modes
 ![Delay Across Modes]({{site.baseurl}}/images/delay-modes.png)
 
@@ -64,9 +66,9 @@ In order to identify any patterns and trend in the transportation cost, I create
 ## Key Findings
 
 The analysis showed several patterns in transportation costs: 
-1. **Seasonal pattern**: The total invoice amount for 2022, 2023, and 2024 follow a consistent time-series pattern. For each year, the total invoice amount grows consistently from January to November and drops in December. 
-2. **Year-over-year growth**: The total invoice amount increase from 2022 to 2024, indicating an overall upward trend in transportation costs. 
+1. **Seasonal pattern**: the total invoice amount for 2022, 2023, and 2024 follow a consistent time-series pattern. For each year, the total invoice amount grows consistently from January to November and drops in December. 
+2. **Year-over-year growth**: the total invoice amount increase from 2022 to 2024, indicating an overall upward trend in transportation costs. 
 3. **Differences by transportation mode**: `less_container_load` and `full_container_load` had the highest total invoice amounts and showed higher delay distributions compared with other transportation modes. 
-4. **Different cost trends by mode**: The trends in invoice costs varied by transportation mode. Container shipping modes showed increasing invoice amounts over time, while parcel invoices remained relatively stable.
+4. **Different cost trends by mode**: the trends in invoice costs varied by transportation mode. Container shipping modes showed increasing invoice amounts over time, while parcel invoices remained relatively stable.
 
 These findings indicate that transportation mode and seasonality should be considered when estimating and forecasting transportation costs. The consistent patterns observed from 2022 to 2024 could provide useful information to plan and allocate the transportation budget in advance. The increase in invoice amounts also suggests that transportation costs may increase in 2025.  
