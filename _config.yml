@@ -224,6 +224,10 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+    order:
+    - transportation-cost-analysis-python.md
+    - transportation-cost-analysis-powerbi.md
+    - electricity-rate-r.md
   publications:
     output: true
     permalink: /:collection/:path/
