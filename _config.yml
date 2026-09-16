@@ -230,10 +230,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-    order:
-    - transportation-cost-analysis-python.md
-    - transportation-cost-analysis-powerbi.md
-    - electricity-rate-r.md
   talks:
     output: true
     permalink: /:collection/:path/

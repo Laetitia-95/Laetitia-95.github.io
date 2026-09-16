@@ -2,6 +2,7 @@
 title: "Transportation Cost Analysis - Python"
 excerpt: "Analyzing transportation costs dataset using Python to identify correlations, patterns, and trends to support transportation cost estimation and forecasting."
 collection: portfolio
+date: 2026-09-01
 permalink: /portfolio/transportation-cost-analysis-python/
 ---
 
