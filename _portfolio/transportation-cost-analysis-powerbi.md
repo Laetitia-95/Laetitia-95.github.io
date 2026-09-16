@@ -4,7 +4,6 @@ excerpt: "Analyzing historical transportation data using Power BI to explore tra
 
 You can find the video presentation and project summary on [GitHub](https://github.com/Laetitia-95/OM621_assignments/tree/main)"
 collection: portfolio
-date: 2026-09-02
 permalink: /portfolio/transportation-cost-analysis-powerbi/
 ---
 

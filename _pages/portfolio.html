@@ -8,7 +8,19 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.portfolio %}
+{% assign python_project = site.portfolio | where: "title", "Transportation Cost Analysis - Python" %}
+{% assign powerbi_project = site.portfolio | where: "title", "Transportation Cost Analysis - Power BI" %}
+
+{% for post in python_project %}
   {% include archive-single.html %}
 {% endfor %}
 
+{% for post in powerbi_project %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% for post in site.portfolio %}
+  {% unless post.title == "Transportation Cost Analysis - Python" or post.title == "Transportation Cost Analysis - Power BI" %}
+    {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}
