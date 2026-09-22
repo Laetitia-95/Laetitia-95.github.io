@@ -62,7 +62,9 @@ The exploratory data analysis examined the distribution of electricity rates and
 Residential, commercial, and industrial rates were concentrated between **$0.10 and $0.20 per kWh**, while industrial rates showed a lower cluster around **$0.05 -$0.12 per kWh**. All three distributions were slightly right-skewed. 
 
 ![Residential Rate Distribution]({{site.baseurl}}/images/residential-rate-histogram.png)
+
 ![Commercial Rate Distribution]({{site.baseurl}}/images/commercial-rate-histogram.png)
+
 ![Industrial Rate Distribution]({{site.baseurl}}/images/industrial-rate-histogram.png)
 
 ### Residential Rate by Climate Zone
@@ -89,6 +91,7 @@ Multiple model specifications were tested using different combinations of featur
 The final model was selected based on the lowest test RMSE and strongest generalization. Key predictors included commercial rate, industrial rate, service type, and the number of ZIP codes served by each utility. 
 
 ![Fifth Model Attempt Code]({{site.baseurl}}/images/mlr-code.png)
+
 ![Regression RMSE]({{site.baseurl}}/images/regression-rmse.png)
 
 #### Model Interpretation 
@@ -115,6 +118,7 @@ On the validation set, the model achieved **91.5% accuracy**, with **90% sensiti
 
 ![Third Model Attempt Code]({{site.baseurl}}/images/logistic-regression-code.png)
 ![Logistics Regression Result]({{site.baseurl}}/images/logistics-code-results.png)
+
 ![Confusion Matrix Validation Set]({{site.baseurl}}/images/confusion-matrix.png)
 
 ### Classification Tree
