@@ -20,4 +20,4 @@ I am looking to begin my career in a role where I can apply my analytical skills
 
 I also have a strong interest in **project management** and enjoy work that involves coordinating activities, solving problems, and helping move projects from planning to execution. I am especially interested in roles where **project management and analytics overlap**. 
 
-As I begin my career, I am looking for an opportunity where I can continue developing my technical skills, gain hands-on industry expereince, and contribute to data-driven operational decisions. 
+As I begin my career, I am looking for an opportunity where I can continue developing my technical skills, gain hands-on industry experience, and contribute to data-driven operational decisions. 
