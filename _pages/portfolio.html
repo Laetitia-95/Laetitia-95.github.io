@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-
 {% assign python_project = site.portfolio | where: "title", "Transportation Cost Analysis - Python" %}
 {% assign powerbi_project = site.portfolio | where: "title", "Transportation Cost Analysis - Power BI" %}
+{% assign safety_stock_project = site.portfolio | where: "title", "Safety Stock Analysis - Python" %}
 {% assign r_project = site.portfolio | where: "title", "Consumer Electricity Rate Prediction - R" %}
 
 {% for post in python_project %}
@@ -20,12 +20,16 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+{% for post in safety_stock_project %}
+  {% include archive-single.html %}
+{% endfor %}
+
 {% for post in r_project %}
   {% include archive-single.html %}
 {% endfor %}
 
 {% for post in site.portfolio %}
-  {% unless post.title == "Transportation Cost Analysis - Python" or post.title == "Transportation Cost Analysis - Power BI" or post.title == "Consumer Electricity Rate Prediction - R" %}
+  {% unless post.title == "Transportation Cost Analysis - Python" or post.title == "Transportation Cost Analysis - Power BI" or post.title == "Safety Stock Analysis - Python" or post.title == "Consumer Electricity Rate Prediction - R" %}
     {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
