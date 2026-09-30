@@ -2,7 +2,7 @@
 title: "Warehouse Operations Assessment"
 excerpt: "Assessing warehouse operations through a structured facility tour to identify operational strenghts, performance gaps, and improvement opportunities."
 collection: portfolio
-permalink: /warehouse-assessment/
+permalink: /portfolio/warehouse-assessment/
 ---
 
 ## Project Overview
