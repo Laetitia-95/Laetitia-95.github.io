@@ -53,8 +53,16 @@ This course explored the design, operation, and assessment of **warehouses and d
 Related project: [Warehouse Assessment](/portfolio/warehouse-assessment)
 
 ## Management & Process Improvement
-### OM  - Advanced Project Management
+### OM 637 - Advanced Project Management
+This course developed an understanding of the **project management lifecycle**, from project selection and chartering through planning, execution, monitoring, and project closeout. The topics included stakeholder and communication management, scope planning, scheduling, resource allocation, budgeting, risk and quality management, project supply chain management, and performance monitoring. 
 
+These concepts were applied using **Microsoft Project** to develop project schedules, assign resources, establish task dependencies and milestones, create Gantt charts, and identify the critical path. 
+
+Related project: [Academic Hall Sustainability Renovation](/portfolio/renovation-project-ms)
 
 ### OM 638 - Quality Management
+This course developed an understanding of **quality management and process improvement**, including process thinking, quality philosophies, variation, and the roles of quality control, and quality assurance. The coursework covered methods for understanding and improving processes, including **Voice of Customer (VOC), influence diagrams, process mapping, SIPOC diagram, performance-importance analysis, and mistake-proofing**. 
 
+These concepts were applied through individual and group assignments to analyze customer needs, structure quality-related decisions, define process scope, and identofy improvement opportunities. An individual **VOC analysis** evaluated smartphone attributes and customer priorities, fllowed by a decision analysis to assess potential product improvements. 
+
+Related project: [VOC analysis](/portfolio/voc-decision-analysis)
