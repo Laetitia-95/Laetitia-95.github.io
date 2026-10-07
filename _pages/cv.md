@@ -23,6 +23,10 @@ Recent M.S. graduate in Supply Chain Analytics with experience in vendor sourcin
 
 **Additional Tools**: SQL/SQLite (basic), Git/GitHub, SAP and NetSuite (exposure)
 
+## Languages
+
+French (Native) and English (Fluent)
+
 ## Education
 
 **Master of Science, Supply Chain Analytics** 
@@ -39,10 +43,12 @@ Recent M.S. graduate in Supply Chain Analytics with experience in vendor sourcin
 ### Transportation Cost Analysis & Forecasting
 *Python, Power BI*
 
-[View Python Analysis](/portfolio/transportation-cost-analysis-python/) | [View Power BI Analysis](/portfolio/transportation-cost-analysis-powerbi/)
+[View Python Analysis](/portfolio/transportation-cost-analysis-python/) 
+
+[View Power BI Analysis](/portfolio/transportation-cost-analysis-powerbi/)
 
 - Analyzed 2022-2024 transportation data in Python to evaluate shipping delays and invoice trends by transportation modes, sites, and regions. 
-- Built Power BI dashboards and ETS forecasts to visualize trends and support transportation planning and decision-making.
+- Built Power BI dashboards and ETS forecasts to visualize trends and support transportation planning and decision making.
 
 ### Supply Chain Decision Models
 *Excel, ForecastX*
@@ -64,7 +70,7 @@ Recent M.S. graduate in Supply Chain Analytics with experience in vendor sourcin
 
 ### Project Coordinator | Angel’s Salumi & Truffles
 *Carlsbad, CA | Nov 2024 – Aug 2025*
-- Sourced about 20 vendors and compared pricing, delivery time, and product quality to support purchasing decisions.
+- Sourced about 20 new vendors and evaluated approximately 200 products based on pricing, delivery time, and product quality to support purchasing decisions.
 - Maintained inventory and order-tracking spreadsheets to support stock availability and help prevent shortages.
 - Coordinated weekly project meetings, tracked progress and upcoming actions, and communicated updates with team members to support project schedules.
 - Supported inventory space organization and high-volume holiday order fulfillment during a period when sales tripled compared with the prior year. 
@@ -80,7 +86,3 @@ Recent M.S. graduate in Supply Chain Analytics with experience in vendor sourcin
 *Nice & Avignon, France | 2018-2020*
 - Assessed, planned, and monitored rehabilitation objectives for multiple patients while maintaining schedules and documentation
 - Collaborated with patients, families, healthcare professionals, and equipment providers to coordinate care and support patient needs
-
-## Languages
-
-French (Native) and English (Fluent)
