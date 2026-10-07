@@ -21,4 +21,13 @@ Recent M.S. graduate in Supply Chain Analytics with experience in vendor sourcin
 
 **Additional Tools**: SQL/SQLite (basic), Git/GitHub, SAP and NetSuite (exposure)
 
+## Education
 
+**Master of Science, Supply Chain Analytics** 
+California State University San Marcos | 2026
+
+**Associate of Arts, Business/Managerial Economics**
+West Valley College | 2024
+
+**Bachelor of Science, Occupational Therapy** 
+IFPVPS, France | 2020
