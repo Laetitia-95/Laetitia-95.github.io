@@ -38,6 +38,7 @@ Recent M.S. graduate in Supply Chain Analytics with experience in vendor sourcin
 
 ### Transportation Cost Analysis & Forecasting
 *Python, Power BI*
+
 [View Python Analysis](/portfolio/transportation-cost-analysis-python/) | [View Power BI Analysis](/portfolio/transportation-cost-analysis-powerbi/)
 
 - Analyzed 2022-2024 transportation data in Python to evaluate shipping delays and invoice trends by transportation modes, sites, and regions. 
@@ -45,6 +46,7 @@ Recent M.S. graduate in Supply Chain Analytics with experience in vendor sourcin
 
 ### Supply Chain Decision Models
 *Excel, ForecastX*
+
 [View Excel Supply Chain Decision Models](/portfolio/supply-chain-decision-models-excel/)
 
 - Built Excel models for demand forecasting, inventory planning, and service-level decisions, applying Solver, Goal Seek, and quantitative methods.
@@ -52,6 +54,7 @@ Recent M.S. graduate in Supply Chain Analytics with experience in vendor sourcin
 
 ### Should-Cost Analysis
 *Excel*
+
 [View Should-Cost Analysis](/portfolio/should-cost-analysis-excel/)
 
 - Built a should-cost model for a Ti-6Al-4V aerospace bracket, using material, labor, manufacturing, and process cost drivers. 
