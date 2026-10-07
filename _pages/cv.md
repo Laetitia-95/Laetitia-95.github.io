@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Resume (PDF)](/files/Laetitia-Vermeersch-Resume.pdf)
+
 ## Summary
 
 Recent M.S. graduate in Supply Chain Analytics with experience in vendor sourcing, inventory support and project coordination. Applied Excel, Python, Power BI, and R to forecasting, inventory analysis, data visualization, and supply chain decision-making.
@@ -24,16 +26,13 @@ Recent M.S. graduate in Supply Chain Analytics with experience in vendor sourcin
 ## Education
 
 **Master of Science, Supply Chain Analytics** 
-
-California State University San Marcos | 2026
+*California State University San Marcos | 2026*
 
 **Associate of Arts, Business/Managerial Economics**
-
-West Valley College | 2024
+*West Valley College | 2024*
 
 **Bachelor of Science, Occupational Therapy** 
-
-IFPVPS, France | 2020
+*IFPVPS, France | 2020*
 
 ## Selected Projects
 
@@ -44,7 +43,7 @@ IFPVPS, France | 2020
 - Analyzed 2022-2024 transportation data in Python to evaluate shipping delays and invoice trends by transportation modes, sites, and regions. 
 - Built Power BI dashboards and ETS forecasts to visualize trends and support transportation planning and decision-making.
 
-### Supply Chain Decision Models**
+### Supply Chain Decision Models
 *Excel, ForecastX*
 [View Excel Supply Chain Decision Models](/portfolio/supply-chain-decision-models-excel/)
 
@@ -81,4 +80,4 @@ IFPVPS, France | 2020
 
 ## Languages
 
-French (Native) | English (Fluent)
+French (Native) and English (Fluent)
