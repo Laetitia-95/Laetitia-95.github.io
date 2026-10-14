@@ -17,11 +17,11 @@ Recent M.S. graduate in Supply Chain Analytics with experience in vendor sourcin
 
 ## Technical Skills
 
-**Analytics and Visualization**: Excel (Solver, Goal Seek, sensitivity analysis), Power BI, Python (pandas), R
+**Analytics and Visualization**: Excel (Solver, Goal Seek, sensitivity analysis, ForecastX), Power BI, Python (pandas), R
 
-**Planning and Project Tools**: Microsoft Project, ClickUp, ForecastX
+**Planning and Project Tools**: Microsoft Project, ClickUp, Miro
 
-**Additional Tools**: SQL/SQLite (basic), Git/GitHub, SAP and NetSuite (exposure)
+**Additional Tools**: SQL/SQLite (basic), Git/GitHub, SAP and NetSuite (exposure), QuickBooks
 
 ## Languages
 
@@ -37,6 +37,15 @@ French (Native) and English (Fluent)
 
 **Bachelor of Science, Occupational Therapy** 
 *IFPVPS, France | 2020*
+
+## Relevant Experience
+
+### Project Coordinator | Angel’s Salumi & Truffles
+*Carlsbad, CA | Nov 2024 – Aug 2025*
+- Supported the sourcing of 20 new vendors by gathering pricing, lead times, shelf life, and minimum order quantities for over 200 products to help purchasing decisions.
+- Created vendor-specific purchasing spreadsheets to organize product information and provide a shared reference for purchasing, inventory, and accounting teams.
+- Coordinated weekly project meetings with management, prepared agendas, tracked action items and deadlines, and followed up with the team to support project progress.
+- Coordinated inventory organization and holiday order fulfillment, supporting operations during a period when orders tripled compared with the previous year. 
 
 ## Selected Projects
 
@@ -66,23 +75,14 @@ French (Native) and English (Fluent)
 - Built a should-cost model for a Ti-6Al-4V aerospace bracket, using material, labor, manufacturing, and process cost drivers. 
 - Evaluated scenarios that lowered cost from $278.06 to $165.82 (40%), by improving the buy-to-fly ratio from 10:1 to 1.8:1. 
 
-## Relevant Experience
-
-### Project Coordinator | Angel’s Salumi & Truffles
-*Carlsbad, CA | Nov 2024 – Aug 2025*
-- Sourced about 20 new vendors and evaluated approximately 200 products based on pricing, delivery time, and product quality to support purchasing decisions.
-- Maintained inventory and order-tracking spreadsheets to support stock availability and help prevent shortages.
-- Coordinated weekly project meetings, tracked progress and upcoming actions, and communicated updates with team members to support project schedules.
-- Supported inventory space organization and high-volume holiday order fulfillment during a period when sales tripled compared with the prior year. 
-
 ## Additional Experience
 
 ### Au Pair | Cultural Care Au Pair
 *Los Gatos & Saratoga, CA | Jul 2021 - Jun 2023*
-- Managed children's schedules and household responsibilities while balancing three community college courses and maintaining a 4.0 GPA
-- Communicated with children, parents, and teachers to coordinate schedules, support academic needs, and address day-to-day challenges
+- Managed children's schedules and household responsibilities while balancing three community college courses and maintaining a 4.0 GPA.
+- Communicated with children, parents, and teachers to coordinate schedules, support academic needs, and address day-to-day challenges.
 
 ### Occupational Therapy Intern | Multiple Healthcare Facilities
 *Nice & Avignon, France | 2018-2020*
-- Assessed, planned, and monitored rehabilitation objectives for multiple patients while maintaining schedules and documentation
-- Collaborated with patients, families, healthcare professionals, and equipment providers to coordinate care and support patient needs
+- Assessed, planned, and monitored rehabilitation objectives for multiple patients while maintaining schedules and documentation.
+- Collaborated with patients, families, healthcare professionals, and equipment providers to coordinate care and support patient needs.
